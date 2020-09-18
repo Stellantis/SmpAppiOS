@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/v1.0.20/SelfMonitoringProtocol.ipa</string>
+					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/lastversion/SelfMonitoringProtocol.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/v1.0.20/icone-2.png</string>
+					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/lastversion/icone-2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/v1.0.20/icone.png</string>
+					<string>https://github.com/GroupePSA/SmpAppiOS/releases/download/lastversion/icone.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.psa.ih.covidprotocol</string>
 				<key>bundle-version</key>
-				<string>1.0.20</string>
+				<string>1.0.28</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
