@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.psa.ih.covidprotocol</string>
 				<key>bundle-version</key>
-				<string>1.0.28</string>
+				<string>1.0.29</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PSA Self Monitoring Protocol</string>
+				<string>Self Monitoring Protocol</string>
 			</dict>
 		</dict>
 	</array>
